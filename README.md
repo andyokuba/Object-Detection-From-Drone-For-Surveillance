@@ -90,7 +90,7 @@ In conclusion, we compared several object detection models using the mean averag
 
 
 ### Team
-- Nimesh Arora (Team Lead)
+- Andy Okuba (Team Lead)
 - Dikshant Sagar
 - Ishmael
 - Shreyas Teli
